@@ -21,15 +21,15 @@ To use this contract, follow the steps below:
 
 ## Example
 
-```solidity```
+```solidity
 // Deploy the ContractWithStatements contract
 ContractWithStatements contract = new ContractWithStatements();
 
 // Call the updateValue function
 contract.updateValue(1234);
 
-
 In the above example, we deploy the `ContractWithStatements` contract and then call the `updateValue` function with a new value of 1234. The function will execute the `require()`, `assert()`, and `revert()` statements according to the conditions specified in the contract.
+```
 
 ## Author
 
