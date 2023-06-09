@@ -26,7 +26,7 @@ To use this contract, follow the steps below:
 ContractWithStatements contract = new ContractWithStatements();
 
 // Call the updateValue function
-contract.updateValue(1234);
+contract.updateValue(1234);```
 
 ## Example
 
